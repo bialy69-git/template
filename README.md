@@ -7,6 +7,7 @@
 <!-- [![npm][npm]](https://www.npmjs.com/package/tree-sitter-PARSER_NAME) -->
 <!-- [![crates][crates]](https://crates.io/crates/tree-sitter-PARSER_NAME) -->
 <!-- [![pypi][pypi]](https://pypi.org/project/tree-sitter-PARSER_NAME/) -->
+<!-- [![maven][maven]](https://central.sonatype.com/artifact/io.github.tree-sitter-grammars/tree-sitter-PARSER_NAME) -->
 
 A Tree-sitter parser for PARSER_NAME files.
 
@@ -20,3 +21,4 @@ A Tree-sitter parser for PARSER_NAME files.
 [npm]: https://img.shields.io/npm/v/tree-sitter-PARSER_NAME?logo=npm
 [crates]: https://img.shields.io/crates/v/tree-sitter-PARSER_NAME?logo=rust
 [pypi]: https://img.shields.io/pypi/v/tree-sitter-PARSER_NAME?logo=pypi&logoColor=ffd242
+[maven]: https://img.shields.io/maven-central/v/io.github.tree-sitter-grammars/tree-sitter-PARSER_NAME?logo=sonatype
